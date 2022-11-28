@@ -4,22 +4,12 @@ using UnityEngine;
 
 public class Area : MonoBehaviour
 {
-
-    // when the player try to exit the area he will be teleported to the spawn point
     public Transform spawnPoint;
-
-
-
-
-
-
-    // Start is called before the first frame update
     void Start()
     {
         
     }
 
-    // Update is called once per frame
     void Update()
     {
         
